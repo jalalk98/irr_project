@@ -1,0 +1,14 @@
+valuation_date = 2017-12-31
+grade = "C4" 
+issue_date = 2015-08-24
+term = 36.00
+coupon_rate = 0.28
+invested = 7500.00
+os_balance = 3228.61
+recovery_rate = 0.08
+purchase_premium = 0.0514
+service_fee = 0.025
+earnout_fee = 0.025
+default_multiplier = 1
+prepay_multiplier = 1
+product_pos = 66
